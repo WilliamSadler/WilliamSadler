@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on YouTube Automation Bots
 - 🌱 I’m currently learning Cyber Security (Reverse Engineering is hard 😢 )
-- 😄 Pronouns: HE/HIM
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm 6'7"
 - 📫 How to reach me: Be Taller 
 
