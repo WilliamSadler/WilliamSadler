@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on YouTube Automation Bots
 - 🌱 I’m currently learning Cyber Security (Reverse Engineering is hard 😢 )
 - 😄 Pronouns: he/him
