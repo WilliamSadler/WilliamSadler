@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on YouTube Automation Bots
-- 🌱 I’m currently learning about Cyber Security
+- 🌱 I’m currently learning about Cyber Security/Machine Learning
 - 😄 Pronouns: he/him
 <!--- ⚡ Fun fact: I'm 6'7"-->
 - 📫 How to reach me: contact@williamsadler.co.uk
