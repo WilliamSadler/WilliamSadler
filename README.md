@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on YouTube Automation Bots
+- 🔭 I’m currently working on Social Media Video Automation Bots
 - 🌱 I’m currently learning about Cyber Security/Machine Learning
 - 😄 Pronouns: he/him
 <!--- ⚡ Fun fact: I'm 6'7"-->
